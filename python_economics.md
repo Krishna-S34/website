@@ -32,24 +32,52 @@ gdp = 2500
 country = "India"
 
 List
-```python
 prices = [100, 110, 120]
 
 Dictionary
-```python
 data = {"inflation": 6.2, "growth": 7.0}
 
 Condition
-```python
 if gdp > 2000:
     print("High GDP")
 
 Loop
-```python
 for year in range(3):
     print(year)
 
 Function
-```python
 def add(a, b):
     return a + b
+
+
+---
+
+## Real-Life or Business Use Case
+- Analysing inflation and GDP trends
+- Financial risk analysis
+- Forecasting sales and demand
+- Automating Excel reports
+- Visualising economic data
+
+Example: An analyst can use Python to study stock prices and calculate returns.
+
+---
+
+## Advantages
+- Easy to learn
+- Readable syntax
+- Strong data libraries
+- Useful for research and business
+- Saves time through automation
+
+---
+
+## Limitations
+- Slower than C or Java
+- Not ideal for mobile app development
+- Needs libraries for advanced statistics
+
+---
+
+## Summary
+Python is an essential tool for economists and business analysts. It helps in analysing data, building models, and making better decisions. Learning Python improves both academic and career opportunities.
