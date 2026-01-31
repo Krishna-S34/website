@@ -22,7 +22,7 @@ const siteConfig = {
 
   seo: {
     title: "Krishna S - Student",
-    description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
+    description: 'Official website showcasing Krishna S\'s education, research, and experience.',
   },
 
   animatedText: ['AI Researcher', 'Educator', 'Speaker', 'Builder'],
