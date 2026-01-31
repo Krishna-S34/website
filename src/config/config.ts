@@ -9,7 +9,7 @@ const siteConfig = {
     name: 'Krishna S',
     title: 'Student | Data Analyst',
     image: getAsset('Profile.jpg'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Krishna S, Ph.D. is a student interested in working at the intersection of data analytics, financial risk analytics, cybersecurity, and technology-driven decision-making.\n' +
+    description: 'Krishna S, is a student interested in working at the intersection of data analytics, financial risk analytics, cybersecurity, and technology-driven decision-making.\n' +
         '\n' +
         'She is doing her second year undergraduates degree at Christ University Bannerghatta Road Campus.\n' +
         '\n' +
