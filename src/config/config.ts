@@ -9,19 +9,19 @@ const siteConfig = {
     name: 'Krishna S',
     title: 'Student | Data Analyst',
     image: getAsset('Profile.jpg'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
+    description: 'Krishna S, Ph.D. is a student interested in working at the intersection of data analytics, financial risk analytics, cybersecurity, and technology-driven decision-making.\n' +
         '\n' +
-        'i teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
+        'She is doing her second year undergraduates degree at Christ University Bannerghatta Road Campus.\n' +
         '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
+        'She is a part of the Service Learning and Gender Champions club in the Economics Department.\n' +
         '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
+        'She loves playing Tennis and Drawing.',
     tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
 
   seo: {
-    title: "Dr. Chandravesh Chaudhari - Assistant Professor & AI Researcher",
+    title: "Krishna S - Student",
     description: 'Official website showcasing Dr. Chandravesh Chaudhari\'s education, research, projects and experience.',
   },
 
