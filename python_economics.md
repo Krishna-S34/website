@@ -49,7 +49,7 @@ Function
 def add(a, b):
     return a + b
 
-
+```
 ---
 
 ## Real-Life or Business Use Case
