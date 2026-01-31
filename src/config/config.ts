@@ -25,7 +25,7 @@ const siteConfig = {
     description: 'Official website showcasing Krishna S\'s education, research, and experience.',
   },
 
-  animatedText: ['AI Researcher', 'Educator', 'Speaker', 'Builder'],
+  animatedText: ['Student', 'Passionate', 'Speaker', 'Builder'],
 
 navigation: [
   { name: 'Home', url: '/' },
