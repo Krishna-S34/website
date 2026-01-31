@@ -31,3 +31,11 @@ Python is a simple and beginner-friendly programming language. It is widely used
 gdp = 2500
 country = "India"
 
+### List
+prices = [100, 110, 120]
+
+### Dictionary
+data = {"inflation": 6.2, "growth": 7.0}
+
+
+
